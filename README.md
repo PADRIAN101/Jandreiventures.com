@@ -28,3 +28,13 @@ I used gradient color of teal and blue as my theme. I chose this color because i
 
 ## Netlify Website Link:
 https://jandreiventures-com.netlify.app/
+
+## Short Reflection:
+
+### Challenges I encounered:
+
+The challenges that held me back to progress in finishing the mini-project was the screen compatibility feature. Initially, I designed my HTML on a desktop screen without even thinking about the compatibility to small device as I have thought that I can just do it in the last phase of the project. To my surprise, it took me a lot of rework because one change in one style sometimes would affect everything because there is a scarcity of space. I had to review from the start so I would know which of the CSS styles were the ones affecting the screen compatibility. Should I have known better about the amount of work to clean up the mess I did. I would have taken a different approach. I think this one of the experiences I had to learn the hard way.  
+
+### Things I learned in this Mini-project:
+In connection to the biggest challenge I faced about screen compatibility feature, I realized that there’s a silver lining behind it. It taught me patience and foresight. Patience in the sense that I will not be able to finish my project if I did start reviewing my codes from the start. At the same time, foresight. That by overcoming this challenge, it would teach me to take a lesson out of it. I should have started reviewing my screen compatibility styles every step using a browser’s inspect feature. This is where I could see my screen in different device screen. Overall, time was friend. It gave me enough chances to correct my mistakes. Next time, I’ll keep this in mind.
+

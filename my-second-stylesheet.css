@@ -316,16 +316,18 @@ footer {
     }
 
     .blog-container {
-        width: 100%;
-        padding: 0;
+        width: 95%;
+        padding: 10px;
     }
 
     #blog .blog-container .featured-article h3 {
-        font-size: 1.5rem; 
+        font-size: 1.5rem;
+        margin-left: 20px;
     }
 
     #blog .blog-container .featured-article p {
         font-size: 0.2rem;
+        
     }
 }
 
@@ -472,7 +474,6 @@ footer {
         margin-top: 10px;
       }
 }
-
 
 
 /* FunFact Feature*/

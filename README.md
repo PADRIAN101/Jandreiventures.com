@@ -1,4 +1,4 @@
-#My Personal Wesbite- Jandreiventures.com [CMSC 207 Mini Project]
+# My Personal Wesbite- Jandreiventures.com [CMSC 207 Mini Project]
 Jandreiventures.com is a one-pager personal website that describes something about me and what I do aside from work and school. It is inspired from the step-by-step coding book written by Clyde Hatter. The website layouts the simple information about me, my interests and my contact details. The following are features and their brief descriptions, respectively. 
 
 ## Website Structure

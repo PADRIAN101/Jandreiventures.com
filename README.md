@@ -17,14 +17,14 @@ I used gradient color of teal and blue as my theme. I chose this color because i
 - ** Netlify**: Website live deployment
 
 ## Features & Enhancements
--**Quote generator**: I displayed an interactive quote generator. The quotes are loaded locally from a js.file.
--**Fun Fact**: I displayed a short fun fact about me.
+- **Quote generator**: I displayed an interactive quote generator. The quotes are loaded locally from a js.file.
+- **Fun Fact**: I displayed a short fun fact about me.
 
 ## Project Files:
--**index.html**- The HTML code of the website
--**my-second**-stylesheet.css- The CSS code of the website
--**quotes.js**- The source file where quotations are stored
--**script.js**- The simple JavaScript function that fetches quote from quote.js and links it to html.
+- **index.html**- The HTML code of the website
+- **my-second**-stylesheet.css- The CSS code of the website
+- **quotes.js**- The source file where quotations are stored
+- **script.js**- The simple JavaScript function that fetches quote from quote.js and links it to html.
 
 ## Netlify Website Link:
 https://jandreiventures-com.netlify.app/

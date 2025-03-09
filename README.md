@@ -19,6 +19,9 @@ I used gradient color of teal and blue as my theme. I chose this color because i
 ## Features & Enhancements
 - **Quote generator**: I displayed an interactive quote generator. The quotes are loaded locally from a js.file.
 - **Fun Fact**: I displayed a short fun fact about me.
+- **Hover Effects**: Buttons change when clicked.
+- **Navigation Menu**: Links to the appropriate section when clicked.
+- **Mobile-Friendly layout**: Screen is compatible on mobile devices.
 
 ## Project Files:
 - **index.html**- The HTML code of the website

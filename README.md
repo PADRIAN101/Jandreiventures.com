@@ -13,8 +13,8 @@ I used gradient color of teal and blue as my theme. I chose this color because i
 - **HTML5**: Website structure
 - **CSS3**: Styling, animation and screen compatibility
 - **JavaScript**: Quote generator and Fun Fact functionality
-- ** GitHub**: Project repository
-- ** Netlify**: Website live deployment
+- **GitHub**: Project repository
+- **Netlify**: Website live deployment
 
 ## Features & Enhancements
 - **Quote generator**: I displayed an interactive quote generator. The quotes are loaded locally from a js.file.

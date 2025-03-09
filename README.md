@@ -2,7 +2,7 @@
 Jandreiventures.com is a one-pager personal website that describes something about me and what I do aside from work and school. It is inspired from the step-by-step coding book written by Clyde Hatter. The website layouts the simple information about me, my interests and my contact details. The following are features and their brief descriptions, respectively. 
 
 ## Website Structure
-- **Header: JANDREIVENTURES.COM/ by Jan Adrian Pardinas**
+- **Header: JANDREIVENTURES.COM/ by Jan Adrian Pardinas-**
 I used gradient color of teal and blue as my theme. I chose this color because it represents calmness and tranquility when browsing the page. I want it to look simple and not overcrowded with many elements. 
 - **Navigation: About Me, Interests & Contact**
 - **About Me:** A short paragraph that defines why I chose “Jandreiventures” as the name of my website. I also included my work background, where I live and what I believe in life. Moreover, I showcased not just one picture but a gallery of moments, experience and places I have been to. 
